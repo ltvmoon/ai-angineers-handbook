@@ -6,6 +6,8 @@ A comprehensive collection of resources, implementations, and best practices for
 <img src="assets/ai_engineer.png" width="50%" alt="AI Engineering Overview">
 </p>
 
+### Learn AI Engineering hands-on in my [End-to-end AI Engineering Bootcamp](https://maven.com/swirl-ai/end-to-end-ai-engineering).
+
 ## Projects
 
 ### [Building Agents from Scratch](building_agents_from_scratch)
